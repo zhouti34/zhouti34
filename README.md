@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me 
+- 📫 How to reach me from email
 
 <!---
 zhouti34/zhouti34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
