@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zhouti34
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on coding
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
